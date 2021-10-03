@@ -102,7 +102,9 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.scss"
+              "src/styles.scss",
+              "node_modules/alertifyjs/build/css/alertify.min.css",
+              "node_modules/alertifyjs/build/css/themes/bootstrap.min.css"
             ],
             "scripts": [
               "node_modules/alertifyjs/build/alertify.min.js"
